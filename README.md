@@ -18,14 +18,14 @@ Goal: Analyze telemetry data to identify which factory and device type had the m
 ### Unfiltered View (All Factories)
 
 
-![Unfiltered Dashboard](Screenshot%202026-04-10%20162633.png)
+![Unfiltered Dashboard](Screenshot%202026-04-10%20173615.png)
 
 
 
 ### Filtered View (Seiko Factory Selected)
 
 
-![Filtered Dashboard](Screenshot%202026-04-10%20173615.png)
+![Filtered Dashboard](Screenshot%202026-04-10%20162633.png)
 
 
 
